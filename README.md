@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 🌸 
+
+I'm currently working on my skill set as an Android Engineer. You'll find various apps where I utilize Kotlin features and building UI layouts. I'm mostly brushing up on basic syntax. My goal is to:
+
+- understand how to use Kotlin Coroutines
+- understand what a Model-view-viewmodel (MVVM) is and implement it
+- utilize Kotlin Observables / RxJava more
+
+✨✨✨
+
 
 <!--
 **lamalice/lamalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
