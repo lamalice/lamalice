@@ -14,6 +14,7 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - understand what a Model-view-viewmodel (MVVM) is and implement it
 - utilize Kotlin Observables / RxJava more
 - utilize Jetpack Compose
+- utilize RecyclerViews
 
 ✨✨✨
 
