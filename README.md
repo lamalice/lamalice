@@ -6,7 +6,7 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - View Binding for all layouts
 - OnClickListeners for buttons
 - Intents to send/receive data when navigating between activities
-- Different drawables to decorate buttons
+- Different drawables to animate buttons
 
 #### My goal is to:
 
