@@ -3,17 +3,18 @@
 I'm currently working on my skill set as an Android Engineer. You'll find various apps where I utilize Kotlin features and building UI layouts. I'm mostly brushing up on basic syntax. 
 
 #### I'm actively utilizing: 
-- View Binding for all layouts
+- ViewBinding for all layouts
 - OnClickListeners for buttons
 - Intents to send/receive data when navigating between activities
 - Different drawables to animate buttons
+- RecyclerViews with ViewBinding (a more effecient way to use ListView)
+- The MediaPlayer class to create sound notifications
 
 #### My goal is to:
 
 - understand how to use Kotlin Coroutines
 - understand what a Model-view-viewmodel (MVVM) is and implement it
 - utilize Jetpack Compose
-- utilize RecyclerViews
 
 ✨✨✨
 
