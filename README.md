@@ -9,7 +9,7 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - utilize Jetpack Compose
 - implement ARCore SDK (Augmented Reality SDK powered by Google)
 
-#### I'm actively utilizing: 
+#### Has implemented: 
 - ViewBinding for all layouts
 - OnClickListeners for buttons
 - Intents to send/receive data when navigating between activities
