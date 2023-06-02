@@ -7,6 +7,7 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - understand how to use Kotlin Coroutines
 - understand what a Model-view-viewmodel (MVVM) is and implement it
 - utilize Jetpack Compose
+- implement ARCore SDK (Augmented Reality SDK powered by Google)
 
 #### I'm actively utilizing: 
 - ViewBinding for all layouts
