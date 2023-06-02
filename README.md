@@ -14,8 +14,10 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - OnClickListeners for buttons
 - Intents to send/receive data when navigating between activities
 - Different drawables to animate buttons
-- RecyclerViews with ViewBinding (a more effecient way to use ListView)
 - The MediaPlayer class to create sound notifications
+- RecyclerViews with ViewBinding (more effecient for memory storing & smoother transition scrolling through list views)
+- Implement Adapter to RecyclerView with LayoutManager
+
 
 ✨✨✨
 
