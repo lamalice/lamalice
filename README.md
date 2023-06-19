@@ -17,8 +17,9 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - Different drawables to animate buttons
 - The MediaPlayer class to create sound notifications
 - RecyclerViews with ViewBinding (more effecient for memory storing & smoother transition scrolling through list views)
-- Implement Adapter to RecyclerView with LayoutManager
-- Implement ARCore SDK (Augmented Reality SDK powered by Google)
+- Implement Adapter to RecyclerView with LayoutManager - 
+  https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list#3
+- Implement ARCore SDK (Augmented Reality SDK powered by Google) - https://github.com/SceneView/sceneview-android.git
 
 
 ✨✨✨
