@@ -4,10 +4,11 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 
 #### My goal is to:
 
-- understand how to use Kotlin Coroutines
-- understand what a Model-view-viewmodel (MVVM) is and implement it
-- utilize Jetpack Compose
-- implement ARCore SDK (Augmented Reality SDK powered by Google)
+- Use Kotlin Coroutines
+- Understand what a Model-view-viewmodel (MVVM) is and implement it
+- Utilize Jetpack Compose in a project
+- Use Retrofit to make HTTP requests to a RESTful API
+
 
 #### Has implemented: 
 - ViewBinding for all layouts
@@ -17,6 +18,7 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - The MediaPlayer class to create sound notifications
 - RecyclerViews with ViewBinding (more effecient for memory storing & smoother transition scrolling through list views)
 - Implement Adapter to RecyclerView with LayoutManager
+- Implement ARCore SDK (Augmented Reality SDK powered by Google)
 
 
 ✨✨✨
