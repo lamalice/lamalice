@@ -8,6 +8,7 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - Understand what a Model-view-viewmodel (MVVM) is and implement it
 - Utilize Jetpack Compose in a project
 - Use Retrofit to make HTTP requests to a RESTful API
+- Utilize Dependency Injection
 
 
 #### Has implemented: 
