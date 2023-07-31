@@ -5,13 +5,11 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 #### My goal is to:
 
 - Use Kotlin Coroutines
-- Understand what a Model-view-viewmodel (MVVM) is and implement it
 - Utilize Jetpack Compose in a project
-- Use Retrofit to make HTTP requests to a RESTful API
 - Utilize Dependency Injection
 
 
-#### Has implemented: 
+#### Have implemented: 
 - ViewBinding for all layouts
 - OnClickListeners for buttons
 - Intents to send/receive data when navigating between activities
@@ -21,7 +19,9 @@ I'm currently working on my skill set as an Android Engineer. You'll find variou
 - Implement Adapter to RecyclerView with LayoutManager - 
   https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list#3
 - Implement ARCore SDK (Augmented Reality SDK powered by Google) - https://github.com/SceneView/sceneview-android.git
-
+- Use Retrofit to make HTTP requests to a RESTful API
+- Understand what a Model-view-viewmodel (MVVM) is and implement it
+- Implement proper callbacks for lifecycle handling within the Activity
 
 ✨✨✨
 
